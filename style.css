@@ -24,7 +24,7 @@ header {
 }
 
 nav a {
-  padding: 15px, 25px;
+  padding: 25px, 30px;
   display: inline;
   color: #000000;
   letter-spacing: 2px;
@@ -41,4 +41,25 @@ main {
   top: 25px;
   margin: 25px;
   width: 500px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  color: #F22600;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.sticky {
+  display: inline-block;
+  position: sticky;
+  float: right;
 }
