@@ -62,4 +62,7 @@ h1 {
   display: inline-block;
   position: sticky;
   float: right;
+  top: 15px;
 }
+
+
