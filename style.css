@@ -87,6 +87,10 @@ p {
   padding-bottom: 10px
 }
 
+footer {
+  margin-left: 25px;
+}
+
 strong  {
   color: #A31800;
 }
