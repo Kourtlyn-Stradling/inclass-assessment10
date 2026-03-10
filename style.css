@@ -38,6 +38,10 @@ nav a {
   text-decoration: none;
 }
 
+#link-color {
+  color: #000000;
+}
+
 .spaghetti {
   float: left;
   font-weight: 700;
