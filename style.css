@@ -30,12 +30,13 @@ nav {
 }
 
 nav a {
-  padding: 0px, 15px;
+  padding: 0px, 20px;
   display: inline;
   color: #000000;
   text-align: rigth;
   letter-spacing: 2px;
   text-decoration: none;
+  font-size: 12px;
 }
 
 #link-color {
