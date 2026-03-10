@@ -21,10 +21,15 @@ header {
   top: 0px;
   left: 0px;
   background-color: #F22600;
+  padding: 10px
+}
+
+nav {
+  display: block;
 }
 
 nav a {
-  padding: 25px, 30px;
+  padding: 0px, 15px;
   display: inline;
   color: #000000;
   text-align: rigth;
